@@ -1,5 +1,5 @@
 # Flight_Information
-Realtime flight details searching application - <a href="https://flightinformation-7ltu4zggouufxuz3e7qlbf.streamlit.app](https://flight-search-app-crc9aag8hjacazep.centralindia-01.azurewebsites.net/)/">Click here</a><br>
+Realtime flight details searching application - <a href="flight-search-app-crc9aag8hjacazep.centralindia-01.azurewebsites.net">Click here</a><br>
 <h3>Description</h3>
 A dynamic, end-to-end web application that allows users to search for real-time flight information globally. The application integrates with a live search API to pull real flight options (including airlines, duration, and pricing) and automatically stores user search history and flight details into a cloud-hosted relational database. It also features a comprehensive, interactive analytics dashboard that visualizes search trends, popular flight routes, and average pricing using advanced data manipulation and charting techniques.
 <br>
