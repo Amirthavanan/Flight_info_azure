@@ -24,5 +24,5 @@ The application is styled with a custom, premium UI featuring dark-mode gradient
 
 
 <h3>Preview:</h3><br>
-<img src="image.png">
-<img src="image1.png">
+<img src="img.png">
+<img src="img1.png">
